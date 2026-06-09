@@ -63,6 +63,14 @@ The model is built using **Logistic Regression** and trained on a real-world tel
 
 ---
 
+## Application Screenshots
+
+### Home Page
+![Home](screenshots/home.png)
+
+### Prediction Result
+![Prediction](screenshots/prediction.png)
+
 ## 📁 Project Structure
 
 ```
